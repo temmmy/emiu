@@ -67,7 +67,7 @@
         font-style: normal;
         font-display: swap;
         font-weight: 700;
-        src: url("src/lib/fonts/DFVN ED Lavonia.otf") format("opentype");
+        src: url("$lib/fonts/DFVN ED Lavonia.otf") format("opentype");
     }
 
     @font-face {
@@ -75,8 +75,7 @@
         font-style: normal;
         font-display: swap;
         font-weight: 700;
-        src: url("src/lib/fonts/BeautiqueDisplay-Regular.otf")
-            format("opentype");
+        src: url("$lib/fonts/BeautiqueDisplay-Regular.otf") format("opentype");
     }
 
     @font-face {
@@ -84,7 +83,7 @@
         font-style: normal;
         font-display: swap;
         font-weight: 700;
-        src: url("src/lib/fonts/BeautiqueDisplay-Bold.otf") format("opentype");
+        src: url("$lib/fonts/BeautiqueDisplay-Bold.otf") format("opentype");
     }
 
     .fixed-header {
@@ -119,36 +118,36 @@
     }
 
     .image-section-3 {
-        background-image: url("/src/lib/images/you.jpg");
+        background-image: url("/src/lib/images/you.JPG");
         background-size: cover;
         background-position: center;
     }
     .image-section-4 {
-        background-image: url("/src/lib/images/beach.JPG");
+        background-image: url("/src/lib/images/beach.jpg");
         background-size: cover;
         background-position: center;
     }
 
     .image-section-5 {
-        background-image: url("/src/lib/images/haha.jpg");
+        background-image: url("/src/lib/images/haha.JPG");
         background-size: cover;
         background-position: center;
     }
 
     .image-section-6 {
-        background-image: url("/src/lib/images/haha3.jpg");
+        background-image: url("/src/lib/images/haha3.JPG");
         background-size: cover;
         background-position: center;
     }
 
     .image-section-7 {
-        background-image: url("/src/lib/images/haha4.jpg");
+        background-image: url("/src/lib/images/haha4.JPG");
         background-size: cover;
         background-position: center;
     }
 
     .image-section-8 {
-        background-image: url("/src/lib/images/haha2.jpg");
+        background-image: url("/src/lib/images/haha2.JPG");
         background-size: cover;
         background-position: center;
     }
