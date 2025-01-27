@@ -12,7 +12,7 @@
     <div class="text-section">
         <h2>
             {isToggled
-                ? "Gửi đến em những lời chúc tốt đẹp nhất. Anh đã cố gắng tìm mua hoa cho em ở khắp mọi nơi, nhưng không thể nào kiếm được bó hoa nào thật đặc biệt dành cho em."
+                ? "Gửi đến em những lời chúc tốt đẹp nhất. Anh đã tìm hoa khắp nơi nhưng không thể nào kiếm được bó hoa nào thật đặc biệt dành cho em."
                 : "Chửi anh ít thôi =)))"}
         </h2>
     </div>
